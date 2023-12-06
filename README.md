@@ -28,7 +28,7 @@ Sou um entusiasta da tecnologia e apaixonado por aprender assuntos relacionados 
 
 
 ## Sobre este projeto: <br/> 
-Desafio Jornada do Heroi, pertencente ao curso de Lógica de programação oferecido pela plataforma @dio; foram aplicados conceitos básicos de lógica de programação (linguagem utilizada: Python)
+Repositório para evidenciar códigos importantes desenvolvidos ou aperfeiçoados durante meus estudos de programação Back-end.
 
 ## Ferramentas utilizadas neste projeto:
 
