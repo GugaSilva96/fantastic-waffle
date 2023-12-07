@@ -28,7 +28,7 @@ Sou um entusiasta da tecnologia e apaixonado por aprender assuntos relacionados 
 
 
 ## Sobre este projeto: <br/> 
-Repositório para evidenciar códigos importantes desenvolvidos ou aperfeiçoados durante meus estudos de programação Back-end.
+Repositório para evidenciar protótipos desenvolvidos ou aperfeiçoados durante meus estudos de programação Back-end.
 
 ## Ferramentas utilizadas neste projeto:
 
